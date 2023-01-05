@@ -6,7 +6,11 @@ The end purpose was conducting an extensive analysis in music lyrics in one of m
 In this project, we aimed to answer the following questions:
 
 Are music lyrics appropriate for text analysis?
+
 Is it possible for music lyrics to be visualized?
+
 Could I get any meaningful insights?
+
 What kind of sentiments are expressed through lyrics?
+
 Which words are constantly being repeated in a music album?
