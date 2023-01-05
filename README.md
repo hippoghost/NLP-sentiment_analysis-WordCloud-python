@@ -14,3 +14,7 @@ Could I get any meaningful insights?
 What kind of sentiments are expressed through lyrics?
 
 Which words are constantly being repeated in a music album?
+
+
+Code is accompanied with article one medium:
+https://medium.com/p/7af53192945b/edit
