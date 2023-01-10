@@ -1,4 +1,4 @@
-# Text Analytics with python in Song Lyrics
+# NLP and sentiment analysis with python in Song Lyrics
 
 The thought process for this project is to use  Natural Language Processing (NLP) for mining information from text and provide insights through sentiment analysis and visualization.
 The end purpose is to conduct an extensive analysis in song lyrics of the band  "Nightstalker", a Greek Stoner-Rock band formed in 1980.
