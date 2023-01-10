@@ -17,4 +17,4 @@ Which words are constantly being repeated in a music album?
 
 
 Code is accompanied with article one medium:
-https://medium.com/p/7af53192945b/edit
+([https://medium.com/p/7af53192945b/edit])
