@@ -19,7 +19,7 @@ The data consists of:
 
 In this project,I aimed to answer the following questions:
 
-* Are music lyrics apporpriate for text analysis?
+* Are music lyrics appροpriate for text analysis?
 * Is it possible for music lyrics to be visualized?
 * Could i get any meaningful insights?
 * What kind of sentiments are expressed through lyrics?
@@ -30,7 +30,7 @@ In this project,I aimed to answer the following questions:
 
 
 
-Check my article on [medium](https://medium.com/p/7af53192945b/edit)
+Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
 
 ## 🚀 About Me
 Data analyst ┃Pattern discoverer ┃Machine Learning enthusiast
