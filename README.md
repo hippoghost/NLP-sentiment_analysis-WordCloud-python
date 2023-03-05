@@ -4,26 +4,23 @@
 ## PROJECT OVERVIEW
 
 
-The thought process for this project is to use Natural Language Processing (NLP) to mine information from text and provide insights through sentiment analysis and visualization.
-The end purpose is to conduct an extensive analysis in song lyrics of one of my favorite bands, "Nightstalker", a Greek Stoner-Rock band formed in 1980. More information can be found in the [official page](https://nightstalkerband.com/) and [wikipedia](https://en.wikipedia.org/wiki/Night_Stalker).
+The goal of this project is to use Natural Language Processing (NLP) to extract insights from text data, specifically by conducting sentiment analysis and generating visualizations through word clouds. The main objective is to perform an in-depth analysis of the song lyrics of "Nightstalker", a Greek Stoner-Rock band formed in 1980 and one of my personal favorites. More information about the band can be found on their official website and on Wikipedia. [official page](https://nightstalkerband.com/) and [wikipedia](https://en.wikipedia.org/wiki/Night_Stalker).
 
 ## DATA
 
-All data was collected through web scraping techniques using geniusapi from [GENIUS.COM](https://genius.com/) . The band's lyrics were saved as text files. 
+All data was collected using web scraping techniques with the Genius API from GENIUS.COM. The lyrics of the band's songs were saved as text files. The data consists of:
 
-The data consists of:
-
-· 8 albums containing 73 songs (4 of them are instrumental),a total of 3.326 words but only 770 of them are unique.
+*8 albums with 73 songs (4 of them instrumental), totaling 3.326 words, but only 770 of them are unique.
 
 ## QUESTIONS
 
 In this project,I aimed to answer the following questions:
 
 * Are music lyrics appροpriate for text analysis?
-* Is it possible for music lyrics to be visualized?
-* Could i get any meaningful insights?
-* What kind of sentiments are expressed through lyrics?
-* Which words are constantly being repeated in a music album?
+* Can music lyrics be effectively visualized?
+* What meaningful insights can be gained from analyzing song lyrics?
+* What sentiments are expressed through lyrics?
+* Which words are frequently repeated in a music album?
 
 
 
