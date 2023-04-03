@@ -30,5 +30,4 @@ In this project,I aimed to answer the following questions:
 Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
 
 ## 🚀 About Me
-Data analyst ┃Pattern discoverer ┃Machine Learning enthusiast
-
+Data analyst & Storyteller ┃Pattern discoverer 
