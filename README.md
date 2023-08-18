@@ -60,15 +60,15 @@ This project offers tangible benefits by showcasing the practical application of
 
 ## How to Use This Project
 
-1.Clone the Repository: Start by cloning the GitHub repository containing the project files.
+1. Clone the Repository: Start by cloning the GitHub repository containing the project files.
 
-2.Install Required Libraries: The project utilizes several Python libraries such as pandas, nltk, matplotlib, and wordcloud. 
+2. Install Required Libraries: The project utilizes several Python libraries such as pandas, nltk, matplotlib, and wordcloud. 
 
-3.Gain Insights from Song Lyrics: This project enables you to utilize Natural Language Processing (NLP) techniques to extract valuable insights from song lyrics. Whether you're a music enthusiast or a data analyst, you can uncover trends, themes, and emotions expressed through lyrics.
+3. Gain Insights from Song Lyrics: This project enables you to utilize Natural Language Processing (NLP) techniques to extract valuable insights from song lyrics. Whether you're a music enthusiast or a data analyst, you can uncover trends, themes, and emotions expressed through lyrics.
 
-4.Practice NLP Skills: If you're learning about NLP and text analysis, this project can serve as a hands-on learning experience. You can understand the process of cleaning and preprocessing text data, conducting sentiment analysis, and visualizing results.
+4. Practice NLP Skills: If you're learning about NLP and text analysis, this project can serve as a hands-on learning experience. You can understand the process of cleaning and preprocessing text data, conducting sentiment analysis, and visualizing results.
 
-5.Expand to Other Text Data: While this project focuses on music lyrics, the techniques demonstrated can be applied to analyze other types of text data, such as social media posts, product reviews, and customer feedback.
+5. Expand to Other Text Data: While this project focuses on music lyrics, the techniques demonstrated can be applied to analyze other types of text data, such as social media posts, product reviews, and customer feedback.
 
 
 Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
