@@ -14,7 +14,8 @@ The project addressed several challenges, including:
 
 ## Methodology & Tasks
 
-1.Data Collection: Lyrics were scraped from the Genius Lyrics website, resulting in a dataset of 73 songs across 8 albums.
+1.Data Collection: 
+Lyrics were scraped from the Genius Lyrics website, resulting in a dataset of 73 songs across 8 albums.
 
 2.Data Cleaning and Preprocessing: The lyrics underwent comprehensive cleaning, including removing punctuation, converting to lowercase, and eliminating insignificant stopwords.
 
