@@ -49,6 +49,7 @@ The project addressed several challenges, including:
 * Compared sentiment outcomes from both VADER and TextBlob libraries.
 
 ## Business Value
+
 This project offers tangible benefits by showcasing the practical application of Natural Language Processing (NLP) techniques to gain insights from song lyrics. The project's significance lies in:
 
 * Enhanced Decision Making: By effectively implementing NLP, the project provides a model for extracting meaningful insights from unstructured text data. This capability can be applied across various domains to make more informed decisions.
@@ -69,6 +70,10 @@ This project offers tangible benefits by showcasing the practical application of
 4. Practice NLP Skills: If you're learning about NLP and text analysis, this project can serve as a hands-on learning experience. You can understand the process of cleaning and preprocessing text data, conducting sentiment analysis, and visualizing results.
 
 5. Expand to Other Text Data: While this project focuses on music lyrics, the techniques demonstrated can be applied to analyze other types of text data, such as social media posts, product reviews, and customer feedback.
+
+
+
+
 
 
 Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
