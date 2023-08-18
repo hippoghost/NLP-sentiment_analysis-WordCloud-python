@@ -14,18 +14,18 @@ The project addressed several challenges, including:
 
 ## Methodology & Tasks
 
-1.Data Collection: 
+1. Data Collection: 
 Lyrics were scraped from the Genius Lyrics website, resulting in a dataset of 73 songs across 8 albums.
 
-2.Data Cleaning and Preprocessing: The lyrics underwent comprehensive cleaning, including removing punctuation, converting to lowercase, and eliminating insignificant stopwords.
+2. Data Cleaning and Preprocessing: The lyrics underwent comprehensive cleaning, including removing punctuation, converting to lowercase, and eliminating insignificant stopwords.
 
-3.Word Tokenization: Cleaned lyrics were tokenized into individual words, with punctuation marks and stopwords discarded.
+3. Word Tokenization: Cleaned lyrics were tokenized into individual words, with punctuation marks and stopwords discarded.
 
-4.WordCloud Visualization: WordClouds visually represent word frequency, aiding in identifying common words and recurring themes within the lyrics.
+4. WordCloud Visualization: WordClouds visually represent word frequency, aiding in identifying common words and recurring themes within the lyrics.
 
-5.Sentiment Analysis: Leveraging VADER and TextBlob libraries, the project determined overall sentiment (positive, negative, neutral) of the lyrics and analyzed sentiment trends for albums and songs.
+5. Sentiment Analysis: Leveraging VADER and TextBlob libraries, the project determined overall sentiment (positive, negative, neutral) of the lyrics and analyzed sentiment trends for albums and songs.
 
-6.Visualization of Sentiment Results: Sentiment analysis outcomes were presented visually, using techniques like bar plots, to illustrate sentiment distribution across albums.
+6. Visualization of Sentiment Results: Sentiment analysis outcomes were presented visually, using techniques like bar plots, to illustrate sentiment distribution across albums.
 
 ## Business Value
 
