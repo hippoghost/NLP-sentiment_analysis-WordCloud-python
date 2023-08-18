@@ -71,12 +71,12 @@ This project offers tangible benefits by showcasing the practical application of
 
 5. Expand to Other Text Data: While this project focuses on music lyrics, the techniques demonstrated can be applied to analyze other types of text data, such as social media posts, product reviews, and customer feedback.
 
+## MEDIUM ARTICLE
 
+In the [medium article](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
+, you'll get an in-depth look at the methodologies I used, the objectives I set out to achieve, and the exciting discoveries I made along the way. 
 
-
-
-
-Check my article on [MEDIUM](https://medium.com/@dimmakriss/natural-language-processing-and-sentiment-analysis-on-music-lyrics-7af53192945b)
+Feel free to reach out if you have any questions or thoughts to share! 
 
 ## 🚀 About Me
 Data analyst & Storyteller ┃ Pattern discoverer 
