@@ -12,41 +12,19 @@ The project addressed several challenges, including:
 * Conducting sentiment analysis to understand the emotions conveyed by the lyrics.
 * Creating visualizations to showcase the most common words and sentiment trends.
 
-## Methodology
+## Methodology & Tasks
 
-* Data Collection: I collected song lyrics by utilizing web scraping methods on the Genius Lyrics website. The dataset comprised lyrics from 8 albums, totaling 73 songs.
-* Data Cleaning and Preprocessing: To ensure accurate analysis, I performed data cleaning and preprocessing tasks. This involved removing punctuation, converting text to lowercase, and eliminating stopwords.
-* Word Tokenization: I then tokenized the cleaned lyrics into individual words. This process included removing punctuation marks and stopwords to focus on the relevant words.
-* WordCloud Visualization: To visually represent the frequency of words, I created WordClouds. These WordClouds provided a quick overview of the most common words and recurring themes in the lyrics.
-* Sentiment Analysis: For sentiment analysis, I employed two libraries: VADER and TextBlob. These libraries helped me determine the overall sentiment (positive, negative, neutral) of the lyrics and analyze sentiment trends for both albums and individual songs.
-* Visualization of Sentiment Results: To make the sentiment analysis results more accessible, I used various visualization techniques, including bar plots. These visualizations enabled me to highlight sentiment distribution and trends across albums.
+1.Data Collection: Lyrics were scraped from the Genius Lyrics website, resulting in a dataset of 73 songs across 8 albums.
 
-## Tasks
+2.Data Cleaning and Preprocessing: The lyrics underwent comprehensive cleaning, including removing punctuation, converting to lowercase, and eliminating insignificant stopwords.
 
-1.Data Collection:
-* Gathered lyrics data from the Genius Lyrics website using web scraping techniques.
-* Stored the collected lyrics in text files for further analysis.
-  
-2.Data Cleaning and Preprocessing:
-* Removed punctuation marks and converted text to lowercase.
-* Eliminated stopwords to focus on meaningful words.
-  
-3.Word Tokenization:
-* Tokenized the cleaned lyrics into individual words.
-* Created a list of unique words to analyze.
-  
-4.WordCloud Visualization:
-* Generated WordClouds to visually present common words within the lyrics.
-* Extracted recurring themes from the WordClouds.
-  
-5.Sentiment Analysis:
-* Utilized VADER and TextBlob libraries for sentiment analysis.
-* Determined the overall sentiment of both lyrics and individual songs.
-* Calculated polarity and subjectivity scores.
-  
-6.Visualization of Sentiment Results:
-* Created bar plots to visualize sentiment distribution across albums.
-* Compared sentiment outcomes from both VADER and TextBlob libraries.
+3.Word Tokenization: Cleaned lyrics were tokenized into individual words, with punctuation marks and stopwords discarded.
+
+4.WordCloud Visualization: WordClouds visually represent word frequency, aiding in identifying common words and recurring themes within the lyrics.
+
+5.Sentiment Analysis: Leveraging VADER and TextBlob libraries, the project determined overall sentiment (positive, negative, neutral) of the lyrics and analyzed sentiment trends for albums and songs.
+
+6.Visualization of Sentiment Results: Sentiment analysis outcomes were presented visually, using techniques like bar plots, to illustrate sentiment distribution across albums.
 
 ## Business Value
 
